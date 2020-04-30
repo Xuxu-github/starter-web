@@ -18,3 +18,6 @@ how to contribute
 
 ## final
 final
+
+## Copyright
+copyright
