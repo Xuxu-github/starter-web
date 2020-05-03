@@ -22,4 +22,4 @@ please fork this repository and then
 final
 
 ## Copyright
-copyright
+copyright All rights reserved.
